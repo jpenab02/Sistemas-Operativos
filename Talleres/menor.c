@@ -33,4 +33,7 @@ int main(int argc, char*argv[]){
   return 0;
   
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> d121a08 (Agrego archivo menor)
